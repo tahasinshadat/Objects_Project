@@ -1,0 +1,28 @@
+img {
+    width: 30%;
+    /* height: 500px; */
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-weight: bold; 
+    text-align: center;
+}
+
+button {
+    align-content: center;
+    display: block;
+    margin: auto;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: "4px solid black";
+    border-radius: 25px;
+}
+
